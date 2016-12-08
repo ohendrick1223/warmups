@@ -1,0 +1,52 @@
+.container {
+
+}
+
+.header {
+/*display: flex;*/
+margin-top: 2%;
+margin-bottom: 2%;
+margin-left: 5%;
+display: inline-block;
+}
+
+.moreInfo {
+display: inline-flex;
+
+}
+
+.button {
+  display: inline-block;
+
+
+}
+
+.findARide {
+ display: inline-block;
+ margin-left: 10%;
+ margin-top: 2%;
+ margin-bottom: 2%;
+
+}
+
+.howToRide {
+  display: inline-block;
+  margin-left: 10%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+
+
+}
+
+.resources {
+  display: inline-block;
+  margin-left: 10%;
+
+
+}
+
+.copyRight {
+margin-left: 25%;
+margin-right: 25%;
+
+}

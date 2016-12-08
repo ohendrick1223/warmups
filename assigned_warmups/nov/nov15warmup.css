@@ -1,0 +1,54 @@
+.navbar {
+  display: inline-flex;
+  justify-content: space-between;
+  flex-direction: row;
+  background-color: red;
+  width: 100%;
+  color: white;
+
+}
+
+.maincontainer {
+display: flex;
+}
+
+.container1 {
+background-color: blue;
+width: 100%;
+
+
+
+}
+
+.searchbar_logo {
+  justify-content: space-around;
+  display: flex;
+
+}
+
+.container2 {
+  background-color: green;
+  width: 100%;
+  display: flex;
+
+}
+
+.container3 {
+  background-color: red;
+  width: 100%;
+  display: flex;
+
+}
+
+.tagline {
+  display: flex;
+  color: white;
+}
+
+.button {
+
+}
+
+.font_color {
+  color: white;
+}
